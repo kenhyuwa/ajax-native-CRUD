@@ -1,0 +1,2 @@
+untuk menjalankan :
+1. jalankan "composer install" tanpa tanada petik pada project.

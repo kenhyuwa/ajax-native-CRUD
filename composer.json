@@ -1,0 +1,21 @@
+{
+    "name": "ken/laverel",
+    "description": "belajar",
+    "type": "php",
+    "license": "free",
+    "authors": [
+        {
+            "name": "ken",
+            "email": "wahyu.dhiraashandy8@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "classmap":[
+            "app/controllers",
+            "app/models"
+        ]
+    },
+    "require": {
+    }
+}
